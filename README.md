@@ -1,4 +1,27 @@
 # HYREFLIX
-NETFLIX V2 CRIADA POR HYRE
 
-VERSÃO PUBLICA 
+<p align="center">
+<a href="https://ibb.co/RjqxH5S"><img src="https://i.ibb.co/sWZ03BP/channels4-profile.jpg" alt="logo" border="0"></a>
+
+
+<h5>
+🗡️ HYREFLIX CRIADO POR HYRE VERSAO PUBLICA :) 📗
+</h5>
+
+```
+TUTORIAL DE INSTALAÇAO
+
+BAIXE O APK PELO LINK ABAIXO 
+BAIXE O GERENCIADOR DE ARQUIVO ABAIXO OU USE OUTRO
+ENTRE NO GERENCIADOR DE ARQUIVO QUANDO O APK TIVER BAIXADO
+CLIQUE EM DOWNLOADS
+CLIQUE NO APP COM O NOME HYREFLIX
+CLIQUE EM BAIXAR - INSTALAR DEPENDE DO CELULAR
+SO ESPERAR E PRONTO 
+ESPERO QUE GOSTE
+
+Caso tenha dificuldade entre
+em contato comigo
+```
+         
+<h5>
